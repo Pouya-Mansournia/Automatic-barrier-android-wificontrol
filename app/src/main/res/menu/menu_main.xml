@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2016 .all right reserved for Esfandune.ir & Mohammad Rahmani
+    salam
+    in source ba zahmate faravani tahiye va montasher shode
+    lotfan az enteshare source khoddari farmaeid.
+    in kar be lahaze ghanuni va shar'i gheire ghanuni mibashad
+    lotfan baraye hemayat az ma dustane barnamenevise khod ra be Esfandune.ir hedayat konid.
+    ba tashakor az shoma
+    MOhammad Rahmani
+   -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/aboutus"
+    android:icon="@drawable/ic_about"
+    app:showAsAction="always"
+    android:title="@string/aboutus_title" />
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2017 .all right reserved for pouya_Mn
+   -->
+<resources>
+    <string name="app_name">Pasargad Automatic Doors</string>
+    <string name="term">شرایط را مطالعه کرده و با آن موافق هستم.</string>
+    <string name="intro1_title">سریع و روان!</string>
+    <string name="intro2_title">بدون محدودیت اتصال!</string>
+    <string name="intro3_title">همه کاره و هوشمند!</string>
+    <string name="intro4_title">بدون مرز همراه با اینترنت!</string>
+    <string name="intro5_title">سخن آخر</string>
+    <string name="intro1_text">با این برنامه به راحتی و با سرعت بالا، دستگاه های هوشمند خود را کنترل کنید.</string>
+    <string name="intro2_text">بدون هیچ محدودیتی و با امنیت بالا همه افراد میتوانند به دستگاه وصل شوند.</string>
+    <string name="intro3_text"> خانه و محل کار خود را به راحتی و هوشمندانه مدیریت کنید.</string>
+    <string name="intro4_text">قابلیت وارد شدن از طریق کامپیوتر و استفاده همزمان از اینترنت.</string>
+    <string name="intro5_text">تمامی حقوق و محتوای این برنامه متعلق به شرکت پاسارگاد می باشد و هر گونه کپی برداری از آن  ممنوع می باشد و پیگرد قانونی خواهد داشت.همچنین شرکت در پشتیبانی و حمایت همراه شما خواهد بود.</string>
+    <string name="button_login">ورود</string>
+    <string name="button_exit">خروج</string>
+    <string name="menu_choose">انتخاب حالت تعویض صفحات</string>
+    <string name="radio_title">انتخاب حالت تعویض صفحات خوش آمدگویی</string>
+    <string name="item1">معمولی</string>
+    <string name="item2">لا به لا</string>
+    <string name="item3">زوم</string>
+    <string name="item4">اسلاید</string>
+    <string name="item5">عمقی</string>
+    <string name="aboutus_title">درباره ما</string>
+    <string name="about_text">برنامه نویس :منصورنیا</string>
+    <string name="button_text">نمایش مجدد صفحه خوش آمدگویی</string>
+    <string name="dialog_title">درباره ما</string>
+    <string name="dialog_text">این برنامه متعلق به شرکت پاسارگاد می باشد و جهت مدیریت دستگاه های اتوماتیک راهبند تحت شبکه است. هرگونه کپی برداری به لحاظ شرعی و قانونی حرام است.</string>
+    <string name="dialog_positive">ورود به سایت شرکت</string>
+    <string name="dialog_tell">تماس با ما</string>
+    <string name="dialog_negative">بستن</string>
+</resources>
